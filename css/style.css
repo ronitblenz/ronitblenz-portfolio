@@ -257,7 +257,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background-color: #000000;
 }
 .prt_home_wrapper{
-	background-image:url(../images/header/profile_final.jpeg);
+	background-image:url(../images/header/profile.png);
 	background-position: center center;
 	background-repeat:no-repeat;
 	background-size:cover;
