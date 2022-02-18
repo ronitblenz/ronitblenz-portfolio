@@ -903,13 +903,13 @@ input:focus, textarea:focus, select:focus, button:focus {
     transition: all 0.3s;
 }
 .prt_contact_details_box.details_box1{
-	background-image:url(http://placehold.it/450X250);
+	background-image:url(#);
 }
 .prt_contact_details_box.details_box2{
-	background-image:url(http://placehold.it/450X250);
+	background-image:url(#);
 }
 .prt_contact_details_box.details_box3{
-	background-image:url(http://placehold.it/450X250);
+	background-image:url(#);
 }
 /*---------- Services css Start -------*/
 .prt_services_wrapper{
@@ -926,7 +926,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 }
 .prt_services_slider_imgs{
     display: inline-block;
-    width: 100%;
+    width: 60%;
 	text-align:center;
 	position:relative;
 	z-index:1;
@@ -1075,7 +1075,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_couter_wrapper{
     display: inline-block;
     width: 100%;
-	background-image:url(http://placehold.it/1920X600);
+	background-image:url(https://raw.githubusercontent.com/helper-uttam/helper-uttam/main/header_.png);
 	background-position:center center;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -1136,28 +1136,32 @@ input:focus, textarea:focus, select:focus, button:focus {
 	text-align:center;
 }
 #circles-1{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png);
+    opacity : 50%;
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-2{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(https://img.icons8.com/external-yogi-aprelliyanto-flat-yogi-aprelliyanto/512/000000/external-ui-design-web-design-and-development-yogi-aprelliyanto-flat-yogi-aprelliyanto.png);
+    opacity : 50%;
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-3{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/000000/external-graphic-design-graph-design-kiranshastry-lineal-color-kiranshastry-2.png);
+    opacity: 50%;
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-4{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(https://cdn-icons-png.flaticon.com/512/6419/6419057.png);
+    opacity: 50%;
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
